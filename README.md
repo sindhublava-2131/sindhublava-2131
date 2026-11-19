@@ -1,160 +1,162 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sindhu%20B%20L&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20%7C%20Full-Stack%20%7C%20AI%20%26%20Cloud&descAlignY=58&descColor=9be7ff&descSize=16" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=9BE7FF&center=true&vCenter=true&width=650&lines=Data+Analysis+%26+Visualization;Full-Stack+Software+Developer;RAG+%26+Generative+AI;AWS+Certified+Cloud+Practitioner;Information+Science+%26+Engineering+Student" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1320,40:172554,100:0e7490&height=165&section=header&text=Sindhu%20B%20L&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=Data%20%7C%20Full-Stack%20%7C%20Applied%20AI%20%26%20Cloud&descAlignY=64&descColor=38bdf8&descSize=15" width="100%"/>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=sindhublava-2131&color=2c5364&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/sindhublava-2131?label=Followers&style=flat-square&color=2c5364)](https://github.com/sindhublava-2131)
+<a href="https://github.com/sindhublava-2131">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Information+Science+%26+Engineering+at+MSRIT;Full-Stack+Engineering+%C2%B7+React+%2B+FastAPI;Applied+AI+%C2%B7+RAG+Architectures+%C2%B7+Gemini;AWS+Certified+Cloud+Practitioner" alt="Typing SVG" />
+</a>
+
+<p align="center">
+  <a href="https://linkedin.com/in/sindhu-lava-88b942310"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sindhublava3105@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/sindhublava-2131"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://komarev.com/ghpvc/?username=sindhublava-2131&color=0e7490&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/sindhublava-2131?label=Followers&style=flat-square&color=0e7490" alt="Followers" />
+</p>
 
 </div>
 
 ---
 
-## About
+### Overview
 
-```python
-class Sindhu:
-    name = "Sindhu B L"
-    location = "Bengaluru, India"
-    education = "B.E. Information Science & Engineering @ MSRIT (2024–2027)"
-    certifications = [
-        "AWS Cloud Practitioner Essentials",
-        "NPTEL: AI Concepts & Techniques (Elite)",
-        "NPTEL: Intro to Machine Learning"
-    ]
-    focus_areas = [
-        "Data Analysis & Business Intelligence",
-        "Full-Stack Web Development",
-        "RAG Architecture & Applied AI"
-    ]
-    current_focus = "Building scalable full-stack applications and exploring RAG pipelines"
-    technical_interests = [
-        "SQL & Analytical Dashboards",
-        "FastAPI & React",
-        "Retrieval-Augmented Generation",
-        "Docker & CI/CD Pipelines"
-    ]
-```
+Undergraduate in **Information Science & Engineering** at **M.S. Ramaiah Institute of Technology (MSRIT)**, Bengaluru (2024–2027). Specializing in **full-stack software development**, **RAG-based generative AI systems**, and **business intelligence analytics**. Focused on architecting scalable backends, responsive user interfaces, and robust cloud-native deployments.
 
 ---
 
-## Technical Skills
+### Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center"><a href="https://github.com/sindhublava-2131/tresart">Tresart</a> &mdash; E-Commerce Platform</h4>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/Jenkins_CI%2FCD-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
+      </p>
+      <p>Full-stack handcrafted goods commerce platform featuring JWT authentication, persistent session cart, bespoke commission requests, and theme toggling.</p>
+      <ul>
+        <li>Frontend built with React, Vite, Tailwind CSS, and Framer Motion, deployed on Netlify.</li>
+        <li>Containerized FastAPI backend powered by MongoDB Atlas.</li>
+        <li>Automated build and test deployment pipeline with Jenkins.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center"><a href="https://github.com/sindhublava-2131">QuizBuzz</a> &mdash; AI Study Platform</h4>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+        <img src="https://img.shields.io/badge/RAG_Pipeline-0f2027?style=flat-square" alt="RAG" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+      </p>
+      <p>Intelligent study assessment companion that ingests unstructured PDF notes and synthesizes context-aware, topic-tailored MCQ evaluations with granular explanations.</p>
+      <ul>
+        <li>Retrieval-Augmented Generation (RAG) pipeline leveraging Google Gemini models.</li>
+        <li>Interactive assessment UI developed in Python and Streamlit.</li>
+        <li>Automated scoring, explanatory feedback, and secure local user sessions.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Technical Competencies
+
+<table>
+  <tr>
+    <td width="24%" valign="top"><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Frontend & Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>AI, ML & Analytics</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+      <img src="https://img.shields.io/badge/RAG_Architecture-0f2027?style=flat-square" alt="RAG" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+      <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black" alt="YOLOv8" />
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+      <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Cloud & DevOps</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### Activity & Analytics
 
 <div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Data & Business Intelligence**
-
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-**Web & Backend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-**Machine Learning & AI**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-Pipelines-0f2027?style=for-the-badge)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logoColor=black)
-
-**Databases, Cloud & DevOps**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=sindhublava-2131&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" height="150" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sindhublava-2131&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" height="150" alt="Top Languages" />
 </div>
 
----
-
-## Featured Projects
-
-| Project | Description | Stack |
-|:---|:---|:---|
-| **[Tresart](https://github.com/sindhublava-2131/tresart)** | Full-stack e-commerce platform for handcrafted products featuring JWT authentication, persistent cart state, customized ordering workflows, and dark/light theming. Deployed with Netlify and automated Jenkins CI/CD. | React, Vite, Tailwind CSS, Framer Motion, FastAPI, MongoDB Atlas, JWT |
-| **[QuizBuzz](https://github.com/sindhublava-2131)** | AI study platform converting PDF lecture notes into topic-focused multiple-choice assessments via a RAG pipeline with Google Gemini, featuring instant evaluation, explanations, and secure authentication. | Python, Streamlit, RAG Architecture, Google Gemini, SQLite |
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sindhublava-2131&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9be7ff&icon_color=9be7ff&text_color=a0a0b0&ring_color=9be7ff" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sindhublava-2131&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9be7ff&text_color=a0a0b0" height="165"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=sindhublava-2131&theme=tokyonight&hide_border=true&background=0d1117&ring=9be7ff&fire=ff6b6b&currStreakLabel=9be7ff&sideLabels=a0a0b0&currStreakNum=ffffff&sideNums=ffffff&dates=a0a0b0" />
-
-</div>
-
----
-
-## Contribution Activity
+<br/>
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sindhublava-2131/sindhublava-2131/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sindhublava-2131/sindhublava-2131/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution Grid Snake" src="https://raw.githubusercontent.com/sindhublava-2131/sindhublava-2131/output/github-contribution-grid-snake.svg" width="100%" />
+    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/sindhublava-2131/sindhublava-2131/output/github-contribution-grid-snake-dark.svg" width="100%" />
   </picture>
 </div>
 
 ---
 
-## Certifications
+### Certifications & Collaborations
 
-| Certification | Issuing Organization | Period / Status |
-|:---|:---|:---|
-| AWS Cloud Practitioner Essentials | AWS Training & Certification | Completed (May 2026) |
-| Artificial Intelligence: Concepts & Techniques | NPTEL, IISc Bangalore | Elite (Jul–Oct 2025) |
-| Introduction to Machine Learning | NPTEL, IIT Madras | Completed (Jan–Apr 2026) |
-
----
-
-## Hackathons & Collaborative Work
-
-- **NutriSnap**: Collaborative development of an AI-powered nutrition application, focusing on backend services and machine learning model integration.
-- **Guardio**: Team project developed for the Samsung InnovateX hackathon.
-- **GenAI Hack2Skill**: Participant in generative AI development challenges.
-
----
-
-## Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sindhu--lava-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sindhu-lava-88b942310)
-[![Email](https://img.shields.io/badge/Email-sindhublava3105@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sindhublava3105@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-sindhublava--2131-181717?style=for-the-badge&logo=github)](https://github.com/sindhublava-2131)
-
-</div>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center">Certifications</h4>
+      <ul>
+        <li><b>AWS Cloud Practitioner Essentials</b><br/><small>AWS Training &amp; Certification &middot; May 2026</small></li>
+        <li><b>AI: Concepts &amp; Techniques (Elite)</b><br/><small>NPTEL, IISc Bangalore &middot; Jul–Oct 2025</small></li>
+        <li><b>Introduction to Machine Learning</b><br/><small>NPTEL, IIT Madras &middot; Jan–Apr 2026</small></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center">Hackathons &amp; Initiatives</h4>
+      <ul>
+        <li><b>NutriSnap:</b> AI nutrition application (Backend services &amp; ML integration)</li>
+        <li><b>Guardio:</b> Samsung InnovateX hackathon project</li>
+        <li><b>GenAI Hack2Skill:</b> Generative AI innovation challenge participant</li>
+      </ul>
+    </td>
+  </tr>
+</table>

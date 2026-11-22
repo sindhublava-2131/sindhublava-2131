@@ -130,9 +130,9 @@ Undergraduate in **Information Science & Engineering** at **M.S. Ramaiah Institu
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sindhublava-2131/sindhublava-2131/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sindhublava-2131/sindhublava-2131/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/sindhublava-2131/sindhublava-2131/output/github-contribution-grid-snake-dark.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sindhublava-2131/sindhublava-2131@output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sindhublava-2131/sindhublava-2131@output/github-contribution-grid-snake.svg">
+    <img alt="Contribution Snake Animation" src="https://cdn.jsdelivr.net/gh/sindhublava-2131/sindhublava-2131@output/github-contribution-grid-snake-dark.svg" width="100%" />
   </picture>
 </div>
 
